@@ -1,0 +1,28 @@
+SSN DATASET
+===========
+
+The input sentences are available in this directory.
+To get an overall picture of the run-time performance, refer to the eclipse dump, available in this directory.
+
+Input Sentences  (IS)              - 25
+Lexicalizatons   (LX)              - 5964 (~238.56 LX/IS) 
+Valid TEDEI Lexicalizations (VTLX) - 297  (Six sentences do not have any valid TEDEI lexicalization.)
+Valid Interpretations (VIP)        - 594  (2 IP/VTLX)
+Valid ACE axioms (VAAX)            - 180  (# sentences do not have any valid ACE axiom.)
+
+LEXICALIZATION
+---------------
+Six sentences do not have any valid lexicalization.
+1. feature    		      - "SSN:FEATUREOFINTEREST"NEW:ABSTRACTION"SSN:EVENT"NEW:ISRELATEDTO"IS_A, phrase in quotes
+2. measurement capability     - ENVIRONMENTAL CONDITIONS IN WHICH THOSE PROPERTIES HOLD, complex sentence
+3. drift                      - may have to update term extraction module
+4. deployment-related process - may be due to the presence of hyphen
+5. platform                   - ENTITY TO WHICH OTHER ENTITIES CAN BE ATTACHED, complex sentence
+6. observation                - SITUATION IN WHICH A SENSING METHOD HAS, complex sentence
+
+Rest of the sentences have valid TEDEI lexicalizations.
+For more details, refer to the lexicalization analysis file available in this directory.
+
+CORRECTNESS
+-----------
+

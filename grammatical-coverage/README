@@ -1,0 +1,57 @@
+README - grammatical coverage
+=============================
+
+We evaluated the quality of TEDEI by analyzing its grammatical coverage. We also compare the coverage of ACE and TEDEI.
+Our analysis shows that TEDEI has larger grammatical coverage as compared to ACE. 
+
+1. lexo: 
+	- Total 115 sentences (removed one extra sentence present in reservoir definition)
+	- 1 valid ACE sentence
+	- 515/55921 valid TEDEI lexicalizations
+	- 32 sentences HAVE valid TEDEI lexicalization
+	- 83 sentences DO NOT HAVE any valid TEDEI lexicalization
+
+2. beauford-pizza:
+	- Total 25 sentences
+	- 0 valid ACE sentence
+	- 157/657 valid TEDEI lexicalizations
+	- 19 sentences HAVE valid TEDEI lexicalization
+	- 6 sentences DO NOT HAVE any valid TEDEI lexicalization
+	
+3. beauford-ssn:
+	- Total 25 sentences
+	- 0 valid ACE sentence
+	- 297/5964 valid TEDEI lexicalizations
+	- 19 sentences HAVE valid TEDEI lexicalization
+	- 6 sentences DO NOT HAVE any valid TEDEI lexicalization
+
+4. beauford-vsao:
+	- Total 25 sentences
+	- 0 valid ACE sentence
+	- 93/560 valid TEDEI lexicalizations
+	- 16 sentences HAVE valid TEDEI lexicalization
+	- 9 sentences DO NOT HAVE any valid TEDEI lexicalization
+For more details on beauford sets, refer to the readme file in the respective directories.
+
+5. people-pets-wiki:
+	- Total 40 sentences
+	- 1 valid ACE sentence
+	- 348/5624 valid TEDEI lexicalizations
+	- 7 sentences HAVE valid TEDEI lexicalization
+	- 33 sentences DO NOT HAVE valid TEDEI lexicalization
+
+6. people-pets-wnet:
+	- Total 40 sentences
+	- 2 valid ACE sentences
+	- 114/1873 valid TEDEI lexicalizations
+	- 22 sentences HAVE valid TEDEI lexicalization
+	- 18 sentences DO NOT HAVE valid TEDEI lexicalization
+
+7. brown:
+	- 500 texts, 15 genres, ~1 million words, ~50000 sentences 
+	- Total 52103 sentences
+	- 1345 valid ACE sentences
+	- 
+	- 
+	- 
+

@@ -1,0 +1,25 @@
+VSAO DATASET
+============
+
+The input sentences are available in this directory.
+To get an overall picture of the run-time performance, refer to the eclipse dump, available in this directory.
+
+Input Sentences  (IS)              - 25
+Lexicalizatons   (LX)              - 560 (~22.4 LX/IS) 
+Valid TEDEI Lexicalizations (VTLX) - 93  (Nine sentences do not have any valid lexicalization.)
+Valid Interpretations (VIP)        - 186 (2 IP/VTLX)
+Valid ACE axioms (VAAX)            - 72  (# sentences do not have any valid ACE axiom.)
+
+LEXICALIZATION
+---------------
+Six sentences do not have any valid lexicalization.
+1. cartilage tissue 			    - TYPICALLY INCLUDES, adverb
+2. non-mineralized hyaline cartilage tissue - may be due to the presence of hyphen
+3. 
+
+Rest of the sentences have valid TEDEI lexicalizations.
+For more details, refer to the lexicalization analysis file available in this directory.
+
+CORRECTNESS
+-----------
+

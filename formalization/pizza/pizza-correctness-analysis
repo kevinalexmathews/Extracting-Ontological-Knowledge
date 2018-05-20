@@ -1,0 +1,90 @@
+ANALYSIS
+--------
+
+1. vegetarian pizza
+Incorrect.
+This sentence should ideally result in a TBox axiom. Only indefinite article 'an' is handled properly. 'a' is not handled.
+"A vegetarian pizzza..." should be rewritten as "{Every, a} vegetarian pizza..."
+
+2. american hot pizza    - IT, coreference
+Incorrect.
+No valid TEDEI lexicalziation.
+
+3. interesting pizza
+Correct.
+
+4. american hot pizza
+Correct.
+
+5. real italian pizza    -THIN AND CRISPY BASES, adjective phrase conjunction
+Incorrect.
+No valid TEDEI lexicalziation.
+
+6. spicy pizza           - HOT, complex sentence
+Incorrect.
+No valid TEDEI lexicalziation.
+
+7. vegetarian pizza
+Incorrect.	
+No valid ACE axiom. Bug in syn-trans module.
+
+8. meaty pizza
+Incorrect.
+This sentence should ideally result in a TBox axiom. Only indefinite article 'an' is handled properly. 'a' is not handled.
+
+9. soho pizza
+Incorrect.
+This sentence should ideally result in a TBox axiom. Only indefinite article 'an' is handled properly. 'a' is not handled.
+
+10. non vegetarian pizza
+Incorrect.
+No valid ACE axiom. Bug in syn-trans module.
+
+11. Sicilian pizza
+Correct.
+
+12. Diavolo pizza
+Correct.
+
+13. Pollo Forza pizza
+Correct.
+
+14. Luhjuman pizza
+Correct.
+
+15. four seasons pizza    - "FOUR" seasons
+Incorrect.
+No valid TEDEI lexicalziation.
+
+16. Quattro Formagi pizza - A DELICIOUS BLEND OF MOZZARELLA CHEESE
+Incorrect.
+No valid TEDEI lexicalziation.
+
+17. gardiniera pizza.
+Incorrect.
+This sentence should ideally result in a TBox axiom. Only indefinite article 'an' is handled properly. 'a' is not handled.
+
+18. Caprina pizza
+Correct.
+
+19. Caprina pizza
+Correct.
+
+20. sloppy giuseppe pizza
+Correct.
+
+21. Pianto pizza
+Corect.
+
+22. Frutti di Mare        - TYPICALLY, adverb
+Incorrect.
+No valid TEDEI lexicalziation.
+
+23. Frutti di Mare
+Correct.
+
+24. Prince Carlo pizza
+Correct.
+
+25.Pollo Ad Astra
+Correct.

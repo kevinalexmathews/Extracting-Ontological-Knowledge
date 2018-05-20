@@ -1,0 +1,25 @@
+An input is any information that is provided to a process for its use.
+Precision is the closeness of agreement between the value of an observation and the true value of the observed quality.
+A feature is an abstraction of real world phenomena"ssn:FeatureOfInterest"new:Abstraction"ssn:Event"new:IsRelatedTo"IS_A
+Maintenance schedule is the schedule of maintenance for a system or sensor in the specified conditions.
+Sensing is a process that results in the estimation, or calculation, of the value of a phenomenon.
+A sensing device is a device that implements sensing.
+A stimulus is an event in the real world that triggers the sensor.
+A system is a unit of abstraction for pieces of infrastructure for sensing.
+The system lifetime is the total useful life of a sensor or system.
+A property is an observable quality of an event or object.
+Deployment is the ongoing process of entities deployed for a particular purpose.
+Measurement capability collects together measurement properties and the environmental conditions in which those properties hold.
+The battery lifetime is the total useful life of a battery.
+A drift is a continuous or incremental change in the reported values of observations over time for an unchanging quality.
+The deployment-related process is a place to group all the various processes related to deployment.
+An observation value is the value of the result of an observation.
+The sensor data sheet is an object that records properties of a sensor.
+An observation is a situation in which a sensing method has been used to estimate or calculate a value of a property of a feature of interest.
+A survival property is an identifiable characteristic that represents the extent of the sensors useful life.
+A device is a physical piece of technology.
+A device is a system in a box.
+An output is any information that is reported from a process.
+A platform is an entity to which other entities can be attached.
+A sensor is any entity that can follow a sensing method.
+A sensor is any entity which can observe some property of a feature of interest.

@@ -1,0 +1,14 @@
+README - Datasets
+=================
+
+We use various types of datasets in our evaluation covering multiple domains. This facilitates concrete evaluation of our approach and also ensures that our approach is neither dataset-oriented nor domain-dependent.
+
+This directory shows all the six datasets and the sentences present in them.
+
+The datasets are listed below:
+	1. dataset-beauford-pizza	, 25 sentences
+	2. dataset-beauford-ssn		, 25 sentences
+	3. dataset-beauford-vsao	, 25 sentences
+	4. dataset-lexo			, 115 sentences
+	5. dataset-people-pets-wiki	, 40 sentences
+	6. dataset-people-pets-wnet	, 40 sentences

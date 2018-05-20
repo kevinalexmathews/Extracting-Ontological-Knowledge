@@ -1,0 +1,40 @@
+PIZZA DATASET
+=============
+
+EDIT 1: The issue resulting in ABox axiom instead of TBox axiom was indeed due to indefinite article 'a' not handled properly. This issue has been resolved. So we expect about 17 valid ACE axioms in the final results, although this has not yet been verified.
+
+The input sentences are available in this directory.
+To get an overall picture of the run-time performance, refer to the eclipse dump, available in this directory.
+
+Input Sentences  (IS)              - 25
+Lexicalizatons   (LX)              - 677 (~29 LX/IS) 
+Valid TEDEI Lexicalizations (VTLX) - 157 (Six sentences do not have any valid TEDEI lexicalization.)
+Valid Interpretations (VIP)        - 260 (~1.65 IP/VTLX)
+Valid ACE axioms (VAAX)            - 206 (Two sentences do not have any valid ACE axiom.)
+
+LEXICALIZATION
+---------------
+Six sentences do not have any valid lexicalization.
+1. american hot pizza    - IT, coreference
+2. real italian pizza    - THIN AND CRISPY BASES, adjective phrase conjunction
+3. spicy pizza           - HOT, complex sentence
+4. four seasons pizza    - "FOUR" seasons
+5. Quattro Formagi pizza - A DELICIOUS BLEND OF MOZZARELLA CHEESE
+6. Frutti di Mare        - TYPICALLY, adverb
+
+Rest of the sentences have valid TEDEI lexicalizations.
+For more details, refer to the lexicalization analysis file available in this directory.
+
+CORRECTNESS
+-----------
+Two sentences do not have any valid ACE axiom.
+
+We checked correctness of the proposed approach using gold standard axioms.
+
+Correct   (13)
+Incorrect (12)
+	- no valid TEDEI lexicalization (6)
+	- ABox instead of TBox    	(4)**
+	- no valid ACE axiom 		(2)
+
+For more details, refer to the gold standard axioms, generated ontology and the correctnes analysis files available in this directory.

@@ -1,0 +1,12 @@
+README
+======
+
+All the datasets and results used are available in this directory.
+
+The contents of the directory are as follows:
+	1. datasets 		- this directory contains all the datasets used in our evaluation.
+	2. formalization 	- this directory contains all the data and results pertaining to the evaluation of formlization 
+	3. grammatical-coverage - this directory contains all the data and results pertaining to the analysis of grammatical coverages of ACE and TEDEI
+	4. brown-corpus 	- this file contains the Brown corpus that was used to identify various natural language constructs, which were, in turn, used in TEDEI.
+	5. ClassExpo.g4 	- this file contains the original, unabridged version of TEDEI
+	6. README 		- this file

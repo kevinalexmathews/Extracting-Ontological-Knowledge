@@ -1,0 +1,101 @@
+LEX CORE DUMP
+-------------
+Input Text: The cartilage tissue is a skeletal tissue that is avascular, rich in glycosaminoglycans and typically includes chondrocytes within isolated lacunae.
+[]
+0
+
+Input Text: A non-mineralized hyaline cartilage tissue is a hyaline cartilage tissue that is not mineralized.
+[]
+0
+
+Input Text: Pectoral fin is a paired fin that is located in the thoracic region of the body.
+[{Every, A} n:Pectoral-fin is {a}  n:paired and is {a}  n:a-fin and  is {a}  n:thoracic and is {a}  n:the-region and  n:the-body., {Every, A} n:Pectoral-fin v:fin-is {a}  n:paired and v:fin-is {a}  n:a-fin and  is {a}  n:thoracic and is {a}  n:the-region and  n:the-body.]
+2
+
+Input Text: Intramembranous ossification is a direct ossification that occurs within mesenchyme or an accumulation of relatively unspecialized cells.
+[{Every, A} n:Intramembranous-ossification is {a}  n:direct and is {a}  n:a-ossification and  v:occurs-within {a}  n:mesenchyme and  v:an-accumulation-of a  n:unspecialized and v:an-accumulation-of a  n:cells., {Every, A} n:Intramembranous-ossification v:ossification-is {a}  n:direct and v:ossification-is {a}  n:a-ossification and  v:occurs-within {a}  n:mesenchyme and  v:an-accumulation-of a  n:unspecialized and v:an-accumulation-of a  n:cells.]
+2
+
+Input Text: A direct ossification is an ossification that does not require the replacement of pre-existing tissues.
+[]
+0
+
+Input Text: Organism subdivision is an anatomical structure which is a primary subdivision of whole organism.
+[{Every, A} n:Organism-subdivision is {a}  n:anatomical and is {a}  n:an-structure and  is {a}  n:primary and is {a}  n:a-subdivision and  n:whole, n:organism., {Every, A} n:Organism-subdivision is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-primary-subdivision-of {a}  n:primary and v:is-a-primary-subdivision-of {a}  n:a-subdivision and  n:whole, n:organism., {Every, A} n:Organism-subdivision is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-primary-subdivision-of {a}  n:whole and v:is-a-primary-subdivision-of {a}  n:organism., {Every, A} n:Organism-subdivision is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-primary-subdivision-of {a}  n:a-primary-subdivision-of-whole-organism., {Every, A} n:Organism-subdivision is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-primary-subdivision-of {a}  n:whole and v:is-a-primary-subdivision-of {a}  n:organism., {Every, A} n:Organism-subdivision is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-primary-subdivision-of {a}  n:a-primary-subdivision-of-whole-organism.]
+6
+
+Input Text: A precementoblast is a skeletogenic cell that has the potential to develop into a cementoblast.
+[]
+0
+
+Input Text: A cementoblast is a skeletogenic cell that produces cementum and is part of the odontogenic papilla and develops from a precementoblast cell.
+[{Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  is {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  n:cementum and  is {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  v:is-part-of {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  n:cementum and  v:is-part-of {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  v:part-of {a}  n:odontogenic and v:part-of {a}  n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  v:is-part-of {a}  n:odontogenic and v:is-part-of {a}  n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  n:cementum and  v:part-of {a}  n:odontogenic and v:part-of {a}  n:the-papilla and  v:develops {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  is {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  n:cementum and  is {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  v:is-part-of {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  n:cementum and  v:is-part-of {a}  n:part and  n:odontogenic, n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  v:part-of {a}  n:odontogenic and v:part-of {a}  n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  v:produces {a}  n:cementum and  v:is-part-of {a}  n:odontogenic and v:is-part-of {a}  n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell., {Every, A} n:cementoblast is {a}  n:skeletogenic and is {a}  n:a-cell and  n:cementum and  v:part-of {a}  n:odontogenic and v:part-of {a}  n:the-papilla and  v:develops-from {a}  n:a-precementoblast-cell.]
+14
+
+Input Text: A solid compound organ is a compound organ that does not contain macroscopic anatomical spaces.
+[]
+0
+
+Input Text: A terminally differentiated odontoblast is an odontoblast that is terminally differentiated and derived from an odontogenic papilla and associated with dentine.
+[]
+0
+
+Input Text: A cell space is an anatomical space that is part of a cell.
+[{Every, A} n:cell-space is {a}  n:anatomical and is {a}  n:an-space and  is {a}  n:part and  n:a-cell., {Every, A} n:cell-space is {a}  n:anatomical and is {a}  n:an-space and  v:is-part-of {a}  n:part and  n:a-cell., {Every, A} n:cell-space is {a}  n:anatomical and is {a}  n:an-space and  v:part-of {a}  n:a-cell., {Every, A} n:cell-space is {a}  n:anatomical and is {a}  n:an-space and  v:is-part-of {a}  n:a-cell.]
+4
+
+Input Text: Axial skeleton is a skeletal subdivision of the central body axis including the cranium, vertebrae, notochord, ribs, and sternum.
+[{Every, A} n:Axial-skeleton v:skeleton-is {a}  n:skeletal and v:skeleton-is {a}  n:a-subdivision and  n:central, n:the-body-axis-including and  v:including {a}  n:the-cranium  and v:including {a}  n:vertebrae  and v:including {a}  n:notochord  and v:including {a}  n:ribs  and v:including {a}  n:sternum.]
+1
+
+Input Text: An embryonic structure is an anatomical structure that is part of the embryo and is comprised of portions of tissue or cells.
+[{Every, A} n:embryonic-structure is {a}  n:anatomical and is {a}  n:an-structure and  is {a}  n:part and  n:the-embryo and  v:is-comprised {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  is {a}  n:part and  n:the-embryo and  v:is-comprised {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure is {a}  n:anatomical and is {a}  n:an-structure and  v:is-part-of {a}  n:part and  n:the-embryo and  v:is-comprised {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:part and  n:the-embryo and  v:is-comprised {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure is {a}  n:anatomical and is {a}  n:an-structure and  v:part-of {a}  n:the-embryo and  v:is-comprised {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:the-embryo and  v:is-comprised {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure is {a}  n:anatomical and is {a}  n:an-structure and  is {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  is {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure is {a}  n:anatomical and is {a}  n:an-structure and  v:is-part-of {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure is {a}  n:anatomical and is {a}  n:an-structure and  v:part-of {a}  n:the-embryo and  v:is-comprised-of {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:the-embryo and  v:is-comprised-of {a}  n:portions and  n:tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  is {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions-of-tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  is {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions-of-tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions-of-tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:part and  n:the-embryo and  v:is-comprised-of {a}  n:portions-of-tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:the-embryo and  v:is-comprised-of {a}  n:portions-of-tissue or n:cells., {Every, A} n:embryonic-structure v:structure-is {a}  n:anatomical and v:structure-is {a}  n:an-structure and  v:is-part-of {a}  n:the-embryo and  v:is-comprised-of {a}  n:portions-of-tissue or n:cells.]
+18
+
+Input Text: Orthodentine is a odontoid tissue that typically contains tubules and is acellular.
+[]
+0
+
+Input Text: Anal fin lepidotrichium is a lepidotrichium that is part of the anal fin skeleton.
+[{Every, A} n:Anal-fin-lepidotrichium is {a}  n:a-lepidotrichium and  is {a}  n:part and  n:anal, n:the-fin-skeleton., {Every, A} n:Anal-fin-lepidotrichium v:fin-lepidotrichium-is {a}  n:a-lepidotrichium and  is {a}  n:part and  n:anal, n:the-fin-skeleton., {Every, A} n:Anal-fin-lepidotrichium is {a}  n:a-lepidotrichium and  v:is-part-of {a}  n:part and  n:anal, n:the-fin-skeleton., {Every, A} n:Anal-fin-lepidotrichium v:fin-lepidotrichium-is {a}  n:a-lepidotrichium and  v:is-part-of {a}  n:part and  n:anal, n:the-fin-skeleton., {Every, A} n:Anal-fin-lepidotrichium is {a}  n:a-lepidotrichium and  v:part-of {a}  n:anal and v:part-of {a}  n:the-fin-skeleton., {Every, A} n:Anal-fin-lepidotrichium v:fin-lepidotrichium-is {a}  n:a-lepidotrichium and  v:is-part-of {a}  n:anal and v:is-part-of {a}  n:the-fin-skeleton.]
+6
+
+Input Text: Axial ossicle is an ossicle that is part of the axial skeleton.
+[{Every, A} n:Axial-ossicle is {a}  n:an-ossicle and  is {a}  n:part and  n:axial, n:the-skeleton., {Every, A} n:Axial-ossicle v:ossicle-is {a}  n:an-ossicle and  is {a}  n:part and  n:axial, n:the-skeleton., {Every, A} n:Axial-ossicle is {a}  n:an-ossicle and  v:is-part-of {a}  n:part and  n:axial, n:the-skeleton., {Every, A} n:Axial-ossicle v:ossicle-is {a}  n:an-ossicle and  v:is-part-of {a}  n:part and  n:axial, n:the-skeleton., {Every, A} n:Axial-ossicle is {a}  n:an-ossicle and  v:part-of {a}  n:axial and v:part-of {a}  n:the-skeleton., {Every, A} n:Axial-ossicle v:ossicle-is {a}  n:an-ossicle and  v:is-part-of {a}  n:axial and v:is-part-of {a}  n:the-skeleton.]
+6
+
+Input Text: A gonochoristic organism is a multi-cellular organism that has male and female sexes.
+[]
+0
+
+Input Text: Integument is the surface structure that is the outer protective covering of the body.
+[{Every, A} n:Integument is {a}  n:the-surface-structure and  is {a}  n:outer-protective and is {a}  n:the-covering and  n:the-body., {Every, A} n:Integument is {a}  n:the-surface-structure and  v:is-the-outer-protective-covering-of {a}  n:outer-protective and v:is-the-outer-protective-covering-of {a}  n:the-covering and  n:the-body., {Every, A} n:Integument is {a}  n:the-surface-structure and  v:the-outer-protective-covering-of {a}  n:the-body., {Every, A} n:Integument is {a}  n:the-surface-structure and  v:is-the-outer-protective-covering-of {a}  n:the-body.]
+4
+
+Input Text: An endochondral ossification is a replacement ossification wherein bone tissue replaces cartilage.
+[{Every, A} n:endochondral-ossification is {a}  n:a-replacement-ossification and  n:bone-tissue and  v:replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification v:ossification-is {a}  n:a-replacement-ossification and  n:bone-tissue and  v:replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification is {a}  n:a-replacement-ossification and  v:replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification v:ossification-is {a}  n:a-replacement-ossification and  v:bone-tissue-replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification is {a}  n:a-replacement-ossification and  v:replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification v:ossification-is {a}  n:a-replacement-ossification and  v:bone-tissue-replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification is {a}  n:a-replacement-ossification and  n:bone-tissue and  n:cartilage., {Every, A} n:endochondral-ossification is {a}  n:a-replacement-ossification and  v:bone-tissue-replaces {a}  n:cartilage., {Every, A} n:endochondral-ossification is {a}  n:a-replacement-ossification and  v:bone-tissue-replaces {a}  n:cartilage.]
+9
+
+Input Text: Craniofacial skeleton is a cranial skeleton derived from neural crest cells.
+[{Every, A} n:Craniofacial-skeleton is {a}  n:cranial and is {a}  n:a-skeleton and  v:derived-from {a}  n:neural and v:derived-from {a}  n:crest-cells., {Every, A} n:Craniofacial-skeleton is {a}  n:cranial and is {a}  n:a-skeleton and  v:skeleton-derived-from {a}  n:neural and v:skeleton-derived-from {a}  n:crest-cells., {Every, A} n:Craniofacial-skeleton v:is-a-cranial-skeleton-derived-from {a}  n:cranial and v:is-a-cranial-skeleton-derived-from {a}  n:a-skeleton and  v:derived-from {a}  n:neural and v:derived-from {a}  n:crest-cells., {Every, A} n:Craniofacial-skeleton v:is-a-cranial-skeleton-derived-from {a}  n:cranial and v:is-a-cranial-skeleton-derived-from {a}  n:a-skeleton and  v:skeleton-derived-from {a}  n:neural and v:skeleton-derived-from {a}  n:crest-cells.]
+4
+
+Input Text: Caudal fin lepidotrichium is a lepidotrichium that is part of the caudal fin skeleton.
+[{Every, A} n:Caudal-fin-lepidotrichium is {a}  n:a-lepidotrichium and  is {a}  n:part and  n:caudal, n:the-fin-skeleton., {Every, A} n:Caudal-fin-lepidotrichium v:fin-lepidotrichium-is {a}  n:a-lepidotrichium and  is {a}  n:part and  n:caudal, n:the-fin-skeleton., {Every, A} n:Caudal-fin-lepidotrichium is {a}  n:a-lepidotrichium and  v:is-part-of {a}  n:part and  n:caudal, n:the-fin-skeleton., {Every, A} n:Caudal-fin-lepidotrichium v:fin-lepidotrichium-is {a}  n:a-lepidotrichium and  v:is-part-of {a}  n:part and  n:caudal, n:the-fin-skeleton., {Every, A} n:Caudal-fin-lepidotrichium is {a}  n:a-lepidotrichium and  v:part-of {a}  n:caudal and v:part-of {a}  n:the-fin-skeleton., {Every, A} n:Caudal-fin-lepidotrichium v:fin-lepidotrichium-is {a}  n:a-lepidotrichium and  v:is-part-of {a}  n:caudal and v:is-part-of {a}  n:the-fin-skeleton.]
+6
+
+Input Text: A cell component is an anatomical structure that is a direct part of the cell.
+[{Every, A} n:cell-component is {a}  n:anatomical and is {a}  n:an-structure and  is {a}  n:direct and is {a}  n:a-part and  n:the-cell., {Every, A} n:cell-component is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-direct-part-of {a}  n:direct and v:is-a-direct-part-of {a}  n:a-part and  n:the-cell., {Every, A} n:cell-component is {a}  n:anatomical and is {a}  n:an-structure and  v:a-direct-part-of {a}  n:the-cell., {Every, A} n:cell-component is {a}  n:anatomical and is {a}  n:an-structure and  v:is-a-direct-part-of {a}  n:the-cell.]
+4
+
+Input Text: Oropharyngeal papilla is an odontogenic papilla located along the jaws or pharyngeal skeleton.
+[]
+0
+
+Input Text: A male organism is a gonochoristic organism that can produce male gametes.
+[{Every, A} n:male-organism is {a}  n:gonochoristic and is {a}  n:a-organism and  v:produce {a}  n:male and v:produce {a}  n:gametes., {Every, A} n:male-organism v:organism-is {a}  n:gonochoristic and v:organism-is {a}  n:a-organism and  v:produce {a}  n:male and v:produce {a}  n:gametes., {Every, A} n:male-organism is {a}  n:gonochoristic and is {a}  n:a-organism and  n:male, n:gametes.]
+3
+
+Input Text: The mesodermal cell is a cell of the middle germ layer of the embryo.
+[{Every, A} n:mesodermal-cell is {a}  n:a-cell and  n:middle, n:the-germ-layer and  n:the-embryo., {Every, A} n:mesodermal-cell v:cell-is {a}  n:a-cell and  n:middle, n:the-germ-layer and  n:the-embryo., {Every, A} n:mesodermal-cell is {a}  n:a-cell and  v:the-middle-germ-layer-of {a}  n:the-embryo., {Every, A} n:mesodermal-cell v:cell-is {a}  n:a-cell and  v:the-middle-germ-layer-of {a}  n:the-embryo.]
+4
